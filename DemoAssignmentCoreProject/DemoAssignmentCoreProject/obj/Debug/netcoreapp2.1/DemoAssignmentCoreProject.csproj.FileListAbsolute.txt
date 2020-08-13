@@ -1,0 +1,14 @@
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\bin\Debug\netcoreapp2.1\DemoAssignmentCoreProject.deps.json
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\bin\Debug\netcoreapp2.1\DemoAssignmentCoreProject.runtimeconfig.json
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\bin\Debug\netcoreapp2.1\DemoAssignmentCoreProject.runtimeconfig.dev.json
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\bin\Debug\netcoreapp2.1\DemoAssignmentCoreProject.dll
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.csprojAssemblyReference.cache
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.csproj.CoreCompileInputs.cache
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.RazorAssemblyInfo.cache
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.RazorAssemblyInfo.cs
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.AssemblyInfoInputs.cache
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.AssemblyInfo.cs
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.RazorTargetAssemblyInfo.cache
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\bin\Debug\netcoreapp2.1\DemoAssignmentCoreProject.pdb
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.dll
+B:\Project\DemoAssignmentCoreProject\DemoAssignmentCoreProject\obj\Debug\netcoreapp2.1\DemoAssignmentCoreProject.pdb
